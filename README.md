@@ -1,5 +1,7 @@
 ![Maitreya-Banner](https://github.com/user-attachments/assets/30b60ef0-23c1-4a9c-9ed1-715837f2927c)
 
+YouTube: https://www.youtube.com/@Maitreya.ArchLinux
+
 🌆 Skyline — Hyprland Rice
 
 Skyline is a clean, calm Hyprland rice focused on cool blues, soft contrast, and smooth motion.
