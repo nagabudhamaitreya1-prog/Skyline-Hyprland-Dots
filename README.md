@@ -1,4 +1,4 @@
-![Maitreya-Banner](https://github.com/user-attachments/assets/30b60ef0-23c1-4a9c-9ed1-715837f2927c)![Maitreya-Banner](https://github.com/user-attachments/assets/bc817b25-2f2a-4d9b-8b34-19ba2fa63066)
+![Maitreya-Banner](https://github.com/user-attachments/assets/30b60ef0-23c1-4a9c-9ed1-715837f2927c)
 
 🌆 Skyline — Hyprland Rice
 
@@ -31,7 +31,7 @@ Compositor: Hyprland
 
 Display Server: Wayland
 
-GPU: Intel iGPU friendly
+GPU: Intel UHD Graphics 630
 
 Shell: Fish
 
@@ -110,12 +110,7 @@ Adjust monitor scale and resolution
 
 Reload Hyprland
 
-Pretend you didn’t spend hours tweaking blur radius
-
-📸 Screenshots
-
-Add screenshots here
-Because if it’s not on GitHub, did the rice even happen?
+Pretend you didn’t spend hours tweaking blur radius...
 
 🧠 Philosophy
 
