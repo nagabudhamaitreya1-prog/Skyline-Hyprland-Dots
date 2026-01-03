@@ -1,3 +1,5 @@
+![Maitreya-Banner](https://github.com/user-attachments/assets/30b60ef0-23c1-4a9c-9ed1-715837f2927c)![Maitreya-Banner](https://github.com/user-attachments/assets/bc817b25-2f2a-4d9b-8b34-19ba2fa63066)
+
 🌆 Skyline — Hyprland Rice
 
 Skyline is a clean, calm Hyprland rice focused on cool blues, soft contrast, and smooth motion.
@@ -58,6 +60,10 @@ Background: #0f1419
 Foreground: #cdd6f4
 
 Designed to stay readable at night without nuking your retinas.
+
+Wallpaper(non-animated) = <img width="3840" height="2160" alt="Retro-GTR" src="https://github.com/user-attachments/assets/aacc68ba-2ed0-4aaa-88b9-d2ae34de588f" /> <img width="3840" height="2160" alt="Skyline-GTR" src="https://github.com/user-attachments/assets/f751b107-56bf-4ac4-ad0b-d391ea5bfe1d" /> ![wall](https://github.com/user-attachments/assets/246fb13f-ed9e-4292-a3b0-d5e3fb709148)
+
+Animated Wallpaper = in Repo
 
 🧱 Components
 Component	Tool
